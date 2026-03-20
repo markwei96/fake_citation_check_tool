@@ -1,5 +1,7 @@
 # Fake Citation Check Tool
 
+[中文版](./README_CN.md)
+
 A command-line tool to verify whether citations in a `.bib` bibliography file are legitimate by searching their titles on Google Scholar.
 
 ## Background
